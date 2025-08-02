@@ -52,7 +52,7 @@
 
 ## 🧠 알고리즘
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=991357)](https://solved.ac/991357)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=991357)](https://solved.ac/991357)
 
 ---
 
