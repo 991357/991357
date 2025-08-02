@@ -40,12 +40,13 @@
 - Addressable 및 리소스 최적화 작업 수행
 - Google Play / iOS 양 플랫폼 배포 및 유지보수
 
-## 🚀 주요 프로젝트
+## 📑 담당 프로젝트
 
-| 프로젝트명       | 역할                                                                 |
-|------------------|----------------------------------------------------------------------|
-| 🎮 **MeetCoda** | SNS Platform 내부 미니게임인 Jumping up 클라이언트 담당 |
-| 🎮 **재활용사키우기** | 클라이언트 담당, 서버 통신 Web Manager 담당 |
+| 프로젝트명         | 설명                                                                 | 바로가기 |
+|--------------------|----------------------------------------------------------------------|----------|
+| 🎮 MeetCoda         | 플랫폼 내 점프 액션 미니게임. Spine 애니메이션, DOTween 기반 UI 개발 | [![Google Play](https://img.shields.io/badge/-Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=net.metaskyworld.weecoda&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/-App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/meet-coda-video-chat/id6475752044) |
+| ♻️ 재활용사 키우기 | 재활용 소재 수집 및 성장형 시뮬레이션. 클라이언트 및 서버 연동(WebManager) 개발 | [![Google Play](https://img.shields.io/badge/-Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.metasky.AnotherWorldRecyclingHero&pcampaignid=web_share) [![App Store](https://img.shields.io/badge/-App_Store-000000?style=flat-square&logo=apple&logoColor=white)]([https://apps.apple.com/app/id123456789](https://apps.apple.com/kr/app/%EC%9E%AC%ED%99%9C%EC%9A%A9%EC%82%AC-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6560108482?platform=iphone)) |
+
 
 ---
 
