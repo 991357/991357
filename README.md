@@ -2,6 +2,7 @@
 <p align="center">
   <img src="me.jpg" width="500" style="border-radius: 50%;" />
 </p>
+<h6 align="center"> 1999.09.29 / ISFP </h6>
 
 ## 🔧 Tech Stack
 
