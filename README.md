@@ -56,6 +56,7 @@
 ## 🧠 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=991357)](https://solved.ac/991357)
+<img src="https://topsolved.mayonedev.com/api/boj?handle=991357&row=10&base_color=gold">
 
 ---
 
