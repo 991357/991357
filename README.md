@@ -1,6 +1,6 @@
 <h1 align="center">🖥️ 안녕하세요 이현빈입니다! 👋</h1>
 <p align="center">
-  <img src="me.png" width="500" style="border-radius: 50%;" />
+  <img src="me.jpg" width="500" style="border-radius: 50%;" />
 </p>
 
 ## 🔧 Tech Stack
