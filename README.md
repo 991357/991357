@@ -38,7 +38,7 @@
 - Unity 기반 클라이언트 개발
 - DOTween, Spine 애니메이션 기반 UI/UX 연출 담당
 - Addressable 및 리소스 최적화 작업 수행
-- Google Play / iOS 플랫폼 배포 및 유지보수
+- Google Play Store / App Store 플랫폼 배포 및 유지보수
 
 ## 📑 담당 프로젝트
 
