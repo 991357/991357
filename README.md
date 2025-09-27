@@ -72,3 +72,4 @@
 ## 📫 Contact
 
 - ✉️ Email: **991357@naver.com**
+- 📝 Vlog: [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@991357)
