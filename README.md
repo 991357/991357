@@ -13,6 +13,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### 🧱 Framework & Library  
+![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32_API-0078D7?style=flat&logo=windows&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-00599C?style=flat&logo=windows&logoColor=white)
@@ -29,8 +32,11 @@
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Spring Tools](https://img.shields.io/badge/Spring_Tools-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+
 
 ---
 
@@ -61,11 +67,18 @@
 
 ---
 
-## 💬 About Me
+## 💬 Awards
 
-- 🎓 SSAFY (삼성청년SW아카데미) 진행 중
 - 🏆 충청권게임인디유공모전 - 장려상 - [플레이영상](https://youtu.be/SNeIs3Hy_Tk)
 - 🏆 2023 창의융합 경진대회 - 1위 - [PV](https://youtu.be/Jzckma3huPg)
+
+---
+
+## 🎓 Education
+
+- 삼성청년SW·AI아카데미 (2025.07 ~ 2026.06)
+- 교내 XR 교육과정 (2023.09 ~ 2023.12)
+- 비트 교육 과정 (2022.09 ~ 2023.02)
 
 ---
 
